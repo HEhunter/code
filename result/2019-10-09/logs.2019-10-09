@@ -1,0 +1,54 @@
+2019-10-09 15:14:59,130 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-09\report.2019-10-09.html
+2019-10-09 15:14:59,131 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-09 15:14:59,131 - logs… - INFO - caseList[]
+2019-10-09 15:14:59,881 - logs… - INFO - <Response [200]>
+2019-10-09 15:14:59,881 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTY1IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3NzgxMDAsIm5iZiI6MTU3MDYwNTMwMH0.SZ6QYIi4l8CeTisxjq6WClal53dULLLak-VszC4yg5M",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-09 15:15:00,021 - logs… - INFO - <Response [200]>
+2019-10-09 15:15:00,022 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTY2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3NzgxMDAsIm5iZiI6MTU3MDYwNTMwMH0.Uvxy00Zh9U82KQeSiySRYhOKDUreZucj-Um_DDz2y8E",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-09 15:15:00,157 - logs… - INFO - <Response [200]>
+2019-10-09 15:15:00,214 - logs… - INFO - <Response [200]>
+2019-10-09 15:15:00,268 - logs… - INFO - <Response [200]>
+2019-10-09 15:15:00,314 - logs… - INFO - <Response [200]>
+2019-10-09 15:15:00,315 - logs… - INFO - *********TEST END*********
+2019-10-09 15:21:17,987 - logs… - INFO - The test report has send to developer by email.
+2019-10-09 15:21:56,129 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-09\report.2019-10-09.html
+2019-10-09 15:21:56,129 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-09 15:21:56,129 - logs… - INFO - caseList[]
+2019-10-09 15:21:56,438 - logs… - INFO - *********TEST END*********
+2019-10-09 15:21:56,900 - logs… - ERROR - (554, b'DT:SPM 163 smtp10,DsCowAAnFg+Vip1dBi+XFQ--.46396S2 1570605717,please see http://mail.163.com/help/help_spam_16.htm?ip=175.13.249.94&hostid=smtp10&time=1570605717')
+2019-10-09 15:22:24,358 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-09\report.2019-10-09.html
+2019-10-09 15:22:24,358 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-09 15:22:24,358 - logs… - INFO - caseList[]
+2019-10-09 15:22:24,484 - logs… - INFO - *********TEST END*********
+2019-10-09 15:22:24,930 - logs… - ERROR - (554, b'DT:SPM 163 smtp10,DsCowAC3ewGxip1dDD2XFQ--.28560S2 1570605745,please see http://mail.163.com/help/help_spam_16.htm?ip=175.13.249.94&hostid=smtp10&time=1570605745')
+2019-10-09 15:25:01,447 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-09\report.2019-10-09.html
+2019-10-09 15:25:01,448 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-09 15:25:01,448 - logs… - INFO - caseList[]
+2019-10-09 15:25:01,959 - logs… - INFO - <Response [200]>
+2019-10-09 15:25:02,108 - logs… - INFO - <Response [200]>
+2019-10-09 15:25:02,223 - logs… - INFO - <Response [200]>
+2019-10-09 15:25:02,282 - logs… - INFO - <Response [200]>
+2019-10-09 15:25:02,343 - logs… - INFO - <Response [200]>
+2019-10-09 15:25:02,386 - logs… - INFO - <Response [200]>
+2019-10-09 15:25:02,388 - logs… - INFO - *********TEST END*********
+2019-10-09 15:25:04,329 - logs… - INFO - The test report has send to developer by email.

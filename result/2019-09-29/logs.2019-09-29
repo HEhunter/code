@@ -1,0 +1,34 @@
+2019-09-29 09:12:43,987 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-29\report.2019-09-29.html
+2019-09-29 09:12:43,987 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-29 09:12:43,987 - logs… - INFO - caseList[]
+2019-09-29 09:13:37,991 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-29\report.2019-09-29.html
+2019-09-29 09:13:37,991 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-29 09:13:37,991 - logs… - INFO - caseList[]
+2019-09-29 09:13:38,569 - logs… - INFO - <Response [200]>
+2019-09-29 09:13:38,569 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyODE4IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4OTI0MTgsIm5iZiI6MTU2OTcxOTYxOH0.WtyCqVkYPcjHqzKe4A4UoOtN_KbiePHs_tKkmvJq-4k",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-09-29 09:13:38,703 - logs… - INFO - <Response [200]>
+2019-09-29 09:13:38,704 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyODE5IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4OTI0MTgsIm5iZiI6MTU2OTcxOTYxOH0.LcTz_yqHB0ZMUoob1fVVKkuIfc0IwKXAv5HatujM3Uk",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-09-29 09:13:38,838 - logs… - INFO - <Response [200]>
+2019-09-29 09:13:38,899 - logs… - INFO - <Response [200]>
+2019-09-29 09:13:38,953 - logs… - INFO - <Response [200]>
+2019-09-29 09:13:39,003 - logs… - INFO - <Response [200]>

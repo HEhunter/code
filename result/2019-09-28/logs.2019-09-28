@@ -1,0 +1,531 @@
+2019-09-28 10:57:03,373 - logs… - INFO - <Response [200]>
+2019-09-28 11:11:11,869 - logs… - INFO - <Response [200]>
+2019-09-28 11:11:37,129 - logs… - INFO - <Response [200]>
+2019-09-28 11:25:41,421 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:25:41,421 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 11:25:41,421 - logs… - INFO - caseList[]
+2019-09-28 11:25:42,186 - logs… - INFO - <Response [200]>
+2019-09-28 11:25:42,568 - logs… - INFO - <Response [200]>
+2019-09-28 11:28:19,352 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:28:19,352 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 11:28:19,352 - logs… - INFO - caseList[]
+2019-09-28 11:28:20,004 - logs… - INFO - <Response [200]>
+2019-09-28 11:28:20,177 - logs… - INFO - <Response [200]>
+2019-09-28 11:32:52,614 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:32:52,614 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 11:32:52,614 - logs… - INFO - caseList[]
+2019-09-28 11:32:53,304 - logs… - INFO - <Response [200]>
+2019-09-28 11:32:53,498 - logs… - INFO - <Response [200]>
+2019-09-28 11:33:12,006 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:33:12,006 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 11:33:12,006 - logs… - INFO - caseList[]
+2019-09-28 11:33:12,698 - logs… - INFO - <Response [200]>
+2019-09-28 11:33:12,893 - logs… - INFO - <Response [200]>
+2019-09-28 11:37:48,470 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:37:48,471 - logs… - INFO - caseList[]
+2019-09-28 11:38:53,317 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:38:53,317 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 11:38:53,317 - logs… - INFO - caseList[]
+2019-09-28 11:38:53,983 - logs… - INFO - <Response [200]>
+2019-09-28 11:38:54,154 - logs… - INFO - <Response [200]>
+2019-09-28 11:39:19,276 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:39:19,277 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 11:39:19,277 - logs… - INFO - caseList[]
+2019-09-28 11:39:19,933 - logs… - INFO - <Response [200]>
+2019-09-28 11:39:20,101 - logs… - INFO - <Response [200]>
+2019-09-28 11:44:25,007 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 11:44:25,653 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 11:44:26,199 - logs… - INFO - caseList[]
+2019-09-28 11:49:06,204 - logs… - INFO - <Response [200]>
+2019-09-28 11:49:06,400 - logs… - INFO - <Response [200]>
+2019-09-28 11:50:03,271 - logs… - INFO - <Response [200]>
+2019-09-28 11:50:03,446 - logs… - INFO - <Response [200]>
+2019-09-28 14:51:37,901 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:37,913 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:37,925 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:37,939 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:37,950 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:37,962 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:46,725 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:46,737 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:46,748 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:46,759 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:46,770 - logs… - INFO - <Response [400]>
+2019-09-28 14:51:46,781 - logs… - INFO - <Response [400]>
+2019-09-28 14:52:22,340 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 14:52:22,340 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 14:52:22,340 - logs… - INFO - caseList[]
+2019-09-28 14:52:22,815 - logs… - INFO - <Response [400]>
+2019-09-28 14:52:22,826 - logs… - INFO - <Response [400]>
+2019-09-28 14:52:22,835 - logs… - INFO - <Response [400]>
+2019-09-28 14:52:22,846 - logs… - INFO - <Response [400]>
+2019-09-28 14:52:22,858 - logs… - INFO - <Response [400]>
+2019-09-28 14:52:22,869 - logs… - INFO - <Response [400]>
+2019-09-28 14:54:13,895 - logs… - INFO - <Response [400]>
+2019-09-28 14:54:13,915 - logs… - INFO - <Response [400]>
+2019-09-28 14:54:13,926 - logs… - INFO - <Response [400]>
+2019-09-28 14:54:13,938 - logs… - INFO - <Response [400]>
+2019-09-28 14:54:13,950 - logs… - INFO - <Response [400]>
+2019-09-28 14:54:13,962 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:11,100 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:11,109 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:11,120 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:11,128 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:11,141 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:11,150 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:52,832 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:52,852 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:52,863 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:52,895 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:52,904 - logs… - INFO - <Response [400]>
+2019-09-28 14:57:52,914 - logs… - INFO - <Response [400]>
+2019-09-28 14:59:33,725 - logs… - INFO - <Response [200]>
+2019-09-28 15:03:41,098 - logs… - INFO - <Response [400]>
+2019-09-28 15:05:05,777 - logs… - INFO - <Response [400]>
+2019-09-28 15:06:31,573 - logs… - INFO - <Response [400]>
+2019-09-28 15:08:16,007 - logs… - INFO - {'code': '2002', 'data': None, 'msg': '错误的客户端', 'paramMap': {}}
+2019-09-28 15:09:48,812 - logs… - INFO - <Response [400]>
+2019-09-28 15:10:39,023 - logs… - INFO - <Response [400]>
+2019-09-28 15:11:21,218 - logs… - INFO - <Response [200]>
+2019-09-28 15:11:54,970 - logs… - INFO - <Response [400]>
+2019-09-28 15:14:06,099 - logs… - INFO - <Response [400]>
+2019-09-28 15:15:24,780 - logs… - INFO - {
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-28 15:15:39,064 - logs… - INFO - {
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-28 15:16:23,820 - logs… - INFO - {
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-28 15:18:13,538 - logs… - INFO - {
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-28 15:18:40,019 - logs… - INFO - {
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-28 15:18:53,744 - logs… - INFO - {
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-28 15:19:48,033 - logs… - INFO - <Response [400]>
+2019-09-28 15:20:06,168 - logs… - INFO - <Response [400]>
+2019-09-28 15:21:03,813 - logs… - INFO - <Response [200]>
+2019-09-28 15:22:27,339 - logs… - INFO - <Response [200]>
+2019-09-28 15:23:04,259 - logs… - INFO - <Response [200]>
+2019-09-28 15:24:01,162 - logs… - INFO - <Response [400]>
+2019-09-28 15:24:31,048 - logs… - INFO - <Response [200]>
+2019-09-28 15:25:27,828 - logs… - INFO - <Response [200]>
+2019-09-28 15:25:51,422 - logs… - INFO - <Response [200]>
+2019-09-28 15:26:13,798 - logs… - INFO - {'code': '2002', 'data': None, 'msg': '错误的客户端', 'paramMap': {}}
+2019-09-28 15:28:05,452 - logs… - INFO - <Response [200]>
+2019-09-28 15:30:48,923 - logs… - INFO - <Response [200]>
+2019-09-28 15:35:28,863 - logs… - INFO - <Response [200]>
+2019-09-28 15:36:07,523 - logs… - INFO - <Response [200]>
+2019-09-28 15:36:16,567 - logs… - INFO - <Response [200]>
+2019-09-28 15:36:31,745 - logs… - INFO - <Response [200]>
+2019-09-28 15:36:40,276 - logs… - INFO - <Response [200]>
+2019-09-28 15:36:57,595 - logs… - INFO - <Response [200]>
+2019-09-28 15:37:13,729 - logs… - INFO - <Response [200]>
+2019-09-28 15:37:24,482 - logs… - INFO - <Response [200]>
+2019-09-28 15:38:15,005 - logs… - INFO - <Response [200]>
+2019-09-28 15:39:27,507 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:27,517 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:27,530 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:27,542 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:27,555 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:27,566 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:58,380 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:58,404 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:58,422 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:58,440 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:58,460 - logs… - INFO - <Response [400]>
+2019-09-28 15:39:58,478 - logs… - INFO - <Response [400]>
+2019-09-28 15:41:28,512 - logs… - INFO - <Response [400]>
+2019-09-28 15:41:28,530 - logs… - INFO - <Response [400]>
+2019-09-28 15:41:28,545 - logs… - INFO - <Response [400]>
+2019-09-28 15:41:28,557 - logs… - INFO - <Response [400]>
+2019-09-28 15:41:28,567 - logs… - INFO - <Response [400]>
+2019-09-28 15:41:28,580 - logs… - INFO - <Response [400]>
+2019-09-28 15:42:09,343 - logs… - INFO - <Response [400]>
+2019-09-28 15:42:09,357 - logs… - INFO - <Response [400]>
+2019-09-28 15:42:09,370 - logs… - INFO - <Response [400]>
+2019-09-28 15:42:09,382 - logs… - INFO - <Response [400]>
+2019-09-28 15:42:09,393 - logs… - INFO - <Response [400]>
+2019-09-28 15:42:09,403 - logs… - INFO - <Response [400]>
+2019-09-28 15:49:47,308 - logs… - INFO - <Response [400]>
+2019-09-28 15:49:47,347 - logs… - INFO - <Response [400]>
+2019-09-28 15:49:47,369 - logs… - INFO - <Response [400]>
+2019-09-28 15:49:47,391 - logs… - INFO - <Response [400]>
+2019-09-28 15:49:47,409 - logs… - INFO - <Response [400]>
+2019-09-28 15:49:47,428 - logs… - INFO - <Response [400]>
+2019-09-28 15:50:19,172 - logs… - INFO - <Response [200]>
+2019-09-28 15:55:54,726 - logs… - INFO - <Response [400]>
+2019-09-28 15:55:54,740 - logs… - INFO - <Response [400]>
+2019-09-28 15:55:54,751 - logs… - INFO - <Response [400]>
+2019-09-28 15:55:54,763 - logs… - INFO - <Response [400]>
+2019-09-28 15:55:54,775 - logs… - INFO - <Response [400]>
+2019-09-28 15:55:54,784 - logs… - INFO - <Response [400]>
+2019-09-28 15:57:13,792 - logs… - INFO - <Response [400]>
+2019-09-28 15:57:13,807 - logs… - INFO - <Response [400]>
+2019-09-28 15:57:13,821 - logs… - INFO - <Response [400]>
+2019-09-28 15:57:13,835 - logs… - INFO - <Response [400]>
+2019-09-28 15:57:13,849 - logs… - INFO - <Response [400]>
+2019-09-28 15:57:13,861 - logs… - INFO - <Response [400]>
+2019-09-28 15:58:31,997 - logs… - INFO - <Response [400]>
+2019-09-28 15:58:32,009 - logs… - INFO - <Response [400]>
+2019-09-28 15:58:32,021 - logs… - INFO - <Response [400]>
+2019-09-28 15:58:32,032 - logs… - INFO - <Response [400]>
+2019-09-28 15:58:32,045 - logs… - INFO - <Response [400]>
+2019-09-28 15:58:32,056 - logs… - INFO - <Response [400]>
+2019-09-28 15:59:01,742 - logs… - INFO - <Response [200]>
+2019-09-28 15:59:34,282 - logs… - INFO - <Response [200]>
+2019-09-28 15:59:45,673 - logs… - INFO - <Response [400]>
+2019-09-28 15:59:45,685 - logs… - INFO - <Response [400]>
+2019-09-28 15:59:45,698 - logs… - INFO - <Response [400]>
+2019-09-28 15:59:45,710 - logs… - INFO - <Response [400]>
+2019-09-28 15:59:45,722 - logs… - INFO - <Response [400]>
+2019-09-28 15:59:45,737 - logs… - INFO - <Response [400]>
+2019-09-28 16:00:33,338 - logs… - INFO - <Response [400]>
+2019-09-28 16:00:33,352 - logs… - INFO - <Response [400]>
+2019-09-28 16:00:33,367 - logs… - INFO - <Response [400]>
+2019-09-28 16:00:33,380 - logs… - INFO - <Response [400]>
+2019-09-28 16:00:33,391 - logs… - INFO - <Response [400]>
+2019-09-28 16:00:33,403 - logs… - INFO - <Response [400]>
+2019-09-28 16:01:58,836 - logs… - INFO - <Response [400]>
+2019-09-28 16:01:58,852 - logs… - INFO - <Response [400]>
+2019-09-28 16:01:58,868 - logs… - INFO - <Response [400]>
+2019-09-28 16:01:58,888 - logs… - INFO - <Response [400]>
+2019-09-28 16:01:58,903 - logs… - INFO - <Response [400]>
+2019-09-28 16:01:58,917 - logs… - INFO - <Response [400]>
+2019-09-28 16:02:57,647 - logs… - INFO - <Response [200]>
+2019-09-28 16:02:57,784 - logs… - INFO - <Response [200]>
+2019-09-28 16:02:57,925 - logs… - INFO - <Response [200]>
+2019-09-28 16:02:57,987 - logs… - INFO - <Response [200]>
+2019-09-28 16:02:58,056 - logs… - INFO - <Response [200]>
+2019-09-28 16:02:58,107 - logs… - INFO - <Response [200]>
+2019-09-28 16:03:52,603 - logs… - INFO - <Response [200]>
+2019-09-28 16:04:17,521 - logs… - INFO - <Response [200]>
+2019-09-28 16:04:17,643 - logs… - INFO - <Response [200]>
+2019-09-28 16:04:17,779 - logs… - INFO - <Response [200]>
+2019-09-28 16:04:17,831 - logs… - INFO - <Response [200]>
+2019-09-28 16:04:17,900 - logs… - INFO - <Response [200]>
+2019-09-28 16:04:17,955 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:15,296 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:15,437 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:15,565 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:15,623 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:15,673 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:15,714 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:59,145 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:59,305 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:59,461 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:59,527 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:59,596 - logs… - INFO - <Response [200]>
+2019-09-28 16:12:59,651 - logs… - INFO - <Response [200]>
+2019-09-28 16:13:32,675 - logs… - INFO - <Response [200]>
+2019-09-28 16:13:32,881 - logs… - INFO - <Response [200]>
+2019-09-28 16:13:33,016 - logs… - INFO - <Response [200]>
+2019-09-28 16:13:33,083 - logs… - INFO - <Response [200]>
+2019-09-28 16:13:33,143 - logs… - INFO - <Response [200]>
+2019-09-28 16:13:33,201 - logs… - INFO - <Response [200]>
+2019-09-28 16:14:39,010 - logs… - INFO - <Response [200]>
+2019-09-28 16:14:39,165 - logs… - INFO - <Response [200]>
+2019-09-28 16:14:39,312 - logs… - INFO - <Response [200]>
+2019-09-28 16:14:39,387 - logs… - INFO - <Response [200]>
+2019-09-28 16:14:39,452 - logs… - INFO - <Response [200]>
+2019-09-28 16:14:39,510 - logs… - INFO - <Response [200]>
+2019-09-28 16:15:43,939 - logs… - INFO - <Response [200]>
+2019-09-28 16:15:44,087 - logs… - INFO - <Response [200]>
+2019-09-28 16:15:44,225 - logs… - INFO - <Response [200]>
+2019-09-28 16:15:44,290 - logs… - INFO - <Response [200]>
+2019-09-28 16:15:44,365 - logs… - INFO - <Response [200]>
+2019-09-28 16:15:44,407 - logs… - INFO - <Response [200]>
+2019-09-28 16:16:50,410 - logs… - INFO - <Response [200]>
+2019-09-28 16:17:39,841 - logs… - INFO - <Response [200]>
+2019-09-28 16:18:01,326 - logs… - INFO - <Response [200]>
+2019-09-28 16:18:27,903 - logs… - INFO - <Response [200]>
+2019-09-28 16:18:59,427 - logs… - INFO - <Response [200]>
+2019-09-28 16:19:10,152 - logs… - INFO - <Response [200]>
+2019-09-28 16:20:28,555 - logs… - INFO - <Response [200]>
+2019-09-28 16:20:28,732 - logs… - INFO - <Response [200]>
+2019-09-28 16:20:28,884 - logs… - INFO - <Response [200]>
+2019-09-28 16:20:28,954 - logs… - INFO - <Response [200]>
+2019-09-28 16:20:29,037 - logs… - INFO - <Response [200]>
+2019-09-28 16:20:29,107 - logs… - INFO - <Response [200]>
+2019-09-28 16:21:51,001 - logs… - INFO - <Response [200]>
+2019-09-28 16:21:51,145 - logs… - INFO - <Response [200]>
+2019-09-28 16:21:51,264 - logs… - INFO - <Response [200]>
+2019-09-28 16:21:51,329 - logs… - INFO - <Response [200]>
+2019-09-28 16:21:51,392 - logs… - INFO - <Response [200]>
+2019-09-28 16:21:51,437 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:21,551 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:21,685 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:21,824 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:21,892 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:21,947 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:21,985 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:53,491 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:53,653 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:53,785 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:53,846 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:53,917 - logs… - INFO - <Response [200]>
+2019-09-28 16:22:53,966 - logs… - INFO - <Response [200]>
+2019-09-28 16:23:56,387 - logs… - INFO - <Response [200]>
+2019-09-28 16:23:56,526 - logs… - INFO - <Response [200]>
+2019-09-28 16:23:56,677 - logs… - INFO - <Response [200]>
+2019-09-28 16:23:56,736 - logs… - INFO - <Response [200]>
+2019-09-28 16:23:56,802 - logs… - INFO - <Response [200]>
+2019-09-28 16:23:56,848 - logs… - INFO - <Response [200]>
+2019-09-28 16:26:52,433 - logs… - INFO - <Response [200]>
+2019-09-28 16:26:52,571 - logs… - INFO - <Response [200]>
+2019-09-28 16:26:52,738 - logs… - INFO - <Response [200]>
+2019-09-28 16:26:52,795 - logs… - INFO - <Response [200]>
+2019-09-28 16:26:52,849 - logs… - INFO - <Response [200]>
+2019-09-28 16:26:52,896 - logs… - INFO - <Response [200]>
+2019-09-28 16:27:47,940 - logs… - INFO - <Response [200]>
+2019-09-28 16:27:48,053 - logs… - INFO - <Response [200]>
+2019-09-28 16:27:48,153 - logs… - INFO - <Response [200]>
+2019-09-28 16:27:48,220 - logs… - INFO - <Response [200]>
+2019-09-28 16:27:48,280 - logs… - INFO - <Response [200]>
+2019-09-28 16:27:48,330 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:03,922 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:04,072 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:04,204 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:04,265 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:04,335 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:04,383 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:53,130 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:53,269 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:53,409 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:53,478 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:53,531 - logs… - INFO - <Response [200]>
+2019-09-28 16:28:53,581 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:18,312 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:18,476 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:18,617 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:18,672 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:18,728 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:18,772 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:27,927 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:28,042 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:28,162 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:28,215 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:28,289 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:28,339 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:45,551 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:45,669 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:45,805 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:45,866 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:45,933 - logs… - INFO - <Response [200]>
+2019-09-28 16:29:45,984 - logs… - INFO - <Response [200]>
+2019-09-28 16:31:29,364 - logs… - INFO - <Response [200]>
+2019-09-28 16:31:29,496 - logs… - INFO - <Response [200]>
+2019-09-28 16:31:29,664 - logs… - INFO - <Response [200]>
+2019-09-28 16:31:29,710 - logs… - INFO - <Response [200]>
+2019-09-28 16:31:29,776 - logs… - INFO - <Response [200]>
+2019-09-28 16:31:29,825 - logs… - INFO - <Response [200]>
+2019-09-28 16:32:27,678 - logs… - INFO - <Response [200]>
+2019-09-28 16:32:27,833 - logs… - INFO - <Response [200]>
+2019-09-28 16:32:27,980 - logs… - INFO - <Response [200]>
+2019-09-28 16:32:28,036 - logs… - INFO - <Response [200]>
+2019-09-28 16:32:28,102 - logs… - INFO - <Response [200]>
+2019-09-28 16:32:28,149 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:02,310 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:02,455 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:02,589 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:02,651 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:02,702 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:02,746 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:26,650 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:26,806 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:26,923 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:26,983 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:27,047 - logs… - INFO - <Response [200]>
+2019-09-28 16:33:27,103 - logs… - INFO - <Response [200]>
+2019-09-28 16:35:31,243 - logs… - INFO - <Response [200]>
+2019-09-28 16:35:31,379 - logs… - INFO - <Response [200]>
+2019-09-28 16:35:31,516 - logs… - INFO - <Response [200]>
+2019-09-28 16:35:31,564 - logs… - INFO - <Response [200]>
+2019-09-28 16:35:31,629 - logs… - INFO - <Response [200]>
+2019-09-28 16:35:31,665 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:10,528 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:10,655 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:10,769 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:10,837 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:10,920 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:10,976 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:49,245 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:49,383 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:49,519 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:49,572 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:49,650 - logs… - INFO - <Response [200]>
+2019-09-28 16:36:49,690 - logs… - INFO - <Response [200]>
+2019-09-28 16:39:30,226 - logs… - INFO - <Response [200]>
+2019-09-28 16:39:30,391 - logs… - INFO - <Response [200]>
+2019-09-28 16:39:30,501 - logs… - INFO - <Response [200]>
+2019-09-28 16:39:30,568 - logs… - INFO - <Response [200]>
+2019-09-28 16:39:30,643 - logs… - INFO - <Response [200]>
+2019-09-28 16:39:30,689 - logs… - INFO - <Response [200]>
+2019-09-28 16:40:18,770 - logs… - INFO - <Response [200]>
+2019-09-28 16:40:18,932 - logs… - INFO - <Response [200]>
+2019-09-28 16:40:19,061 - logs… - INFO - <Response [200]>
+2019-09-28 16:40:19,115 - logs… - INFO - <Response [200]>
+2019-09-28 16:40:19,188 - logs… - INFO - <Response [200]>
+2019-09-28 16:40:19,227 - logs… - INFO - <Response [200]>
+2019-09-28 16:41:20,106 - logs… - INFO - <Response [200]>
+2019-09-28 16:41:20,240 - logs… - INFO - <Response [200]>
+2019-09-28 16:41:20,383 - logs… - INFO - <Response [200]>
+2019-09-28 16:41:20,450 - logs… - INFO - <Response [200]>
+2019-09-28 16:41:20,515 - logs… - INFO - <Response [200]>
+2019-09-28 16:41:20,562 - logs… - INFO - <Response [200]>
+2019-09-28 16:42:55,141 - logs… - INFO - <Response [200]>
+2019-09-28 16:42:55,268 - logs… - INFO - <Response [200]>
+2019-09-28 16:42:55,389 - logs… - INFO - <Response [200]>
+2019-09-28 16:42:55,445 - logs… - INFO - <Response [200]>
+2019-09-28 16:42:55,508 - logs… - INFO - <Response [200]>
+2019-09-28 16:42:55,551 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:01,758 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:01,915 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:02,078 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:02,147 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:02,218 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:02,274 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:25,820 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:25,972 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:26,117 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:26,169 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:26,222 - logs… - INFO - <Response [200]>
+2019-09-28 16:45:26,275 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:44,031 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:44,186 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:44,343 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:44,417 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:44,471 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:44,520 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:53,694 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:53,826 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:53,958 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:54,012 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:54,068 - logs… - INFO - <Response [200]>
+2019-09-28 16:46:54,122 - logs… - INFO - <Response [200]>
+2019-09-28 16:47:23,366 - logs… - INFO - <Response [200]>
+2019-09-28 16:47:23,500 - logs… - INFO - <Response [200]>
+2019-09-28 16:47:23,644 - logs… - INFO - <Response [200]>
+2019-09-28 16:47:23,700 - logs… - INFO - <Response [200]>
+2019-09-28 16:47:23,779 - logs… - INFO - <Response [200]>
+2019-09-28 16:47:23,835 - logs… - INFO - <Response [200]>
+2019-09-28 16:48:38,093 - logs… - INFO - <Response [200]>
+2019-09-28 16:48:56,080 - logs… - INFO - {'code': '0', 'data': {'access_token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNzQ4IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzMzNTYsIm5iZiI6MTU2OTY2MDU1Nn0.S86HVYwx8lfeQkvr30xjd-niebBTZ-s_hth5qz1AgH4', 'expires_in': 172800, 'token_type': 'bearer', 'username': '超级管理员'}, 'msg': 'OK', 'paramMap': {}}
+2019-09-28 16:49:08,312 - logs… - INFO - {'code': '0', 'data': {'access_token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNzQ5IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzMzNjgsIm5iZiI6MTU2OTY2MDU2OH0.FSrPIV2MDargceaASWNTD9dWDwbTvV5Caz-hzfjj_xw', 'expires_in': 172800, 'token_type': 'bearer', 'username': '超级管理员'}, 'msg': 'OK', 'paramMap': {}}
+2019-09-28 16:49:19,619 - logs… - INFO - {'code': '0', 'data': {'access_token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNzUwIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzMzODAsIm5iZiI6MTU2OTY2MDU4MH0.7HMR_eqwnsp-ujKMKuEkrzyYZQUbGsFig3tU6X6LHOI', 'expires_in': 172800, 'token_type': 'bearer', 'username': '超级管理员'}, 'msg': 'OK', 'paramMap': {}}
+2019-09-28 16:49:33,001 - logs… - INFO - {'code': '0', 'data': {'access_token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNzUxIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzMzOTMsIm5iZiI6MTU2OTY2MDU5M30.kT6x1imDGrqJOQPd0A1BuAptyt2TTP2Se7OEApUU8_E', 'expires_in': 172800, 'token_type': 'bearer', 'username': '超级管理员'}, 'msg': 'OK', 'paramMap': {}}
+2019-09-28 16:51:11,569 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:11,716 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:11,870 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:11,941 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:12,011 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:12,057 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:35,054 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:35,202 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:35,354 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:35,408 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:35,483 - logs… - INFO - <Response [200]>
+2019-09-28 16:51:35,540 - logs… - INFO - <Response [200]>
+2019-09-28 16:52:27,518 - logs… - INFO - <Response [200]>
+2019-09-28 16:52:27,653 - logs… - INFO - <Response [200]>
+2019-09-28 16:52:27,760 - logs… - INFO - <Response [200]>
+2019-09-28 16:52:27,817 - logs… - INFO - <Response [200]>
+2019-09-28 16:52:27,886 - logs… - INFO - <Response [200]>
+2019-09-28 16:52:27,931 - logs… - INFO - <Response [200]>
+2019-09-28 16:53:01,853 - logs… - INFO - <Response [200]>
+2019-09-28 16:53:01,986 - logs… - INFO - <Response [200]>
+2019-09-28 16:53:02,113 - logs… - INFO - <Response [200]>
+2019-09-28 16:53:02,166 - logs… - INFO - <Response [200]>
+2019-09-28 16:53:02,238 - logs… - INFO - <Response [200]>
+2019-09-28 16:53:02,279 - logs… - INFO - <Response [200]>
+2019-09-28 16:55:20,162 - logs… - INFO - <Response [200]>
+2019-09-28 16:55:20,163 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyODA2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzM3NDAsIm5iZiI6MTU2OTY2MDk0MH0.EGpZqrWJs-uwkT4hceV7J9D1PzI0_VfblPmJI5t6qHs",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-09-28 16:55:20,324 - logs… - INFO - <Response [200]>
+2019-09-28 16:55:20,325 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyODA3IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzM3NDAsIm5iZiI6MTU2OTY2MDk0MH0.ab8XI1-EknfqutuFHnehub0SZSlLfUT_dJneotiow2Y",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-09-28 16:55:20,459 - logs… - INFO - <Response [200]>
+2019-09-28 16:55:20,513 - logs… - INFO - <Response [200]>
+2019-09-28 16:55:20,578 - logs… - INFO - <Response [200]>
+2019-09-28 16:55:20,640 - logs… - INFO - <Response [200]>
+2019-09-28 16:56:14,897 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 16:56:14,897 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 16:56:14,897 - logs… - INFO - caseList[]
+2019-09-28 16:56:15,434 - logs… - INFO - <Response [200]>
+2019-09-28 16:56:15,435 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyODEyIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzM3OTYsIm5iZiI6MTU2OTY2MDk5Nn0.Ax9Kz_JBaGiYbU08nTSshIdAUYEKSX_-dLXhsk52PZY",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-09-28 16:56:15,585 - logs… - INFO - <Response [200]>
+2019-09-28 16:56:15,586 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyODEzIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk4MzM3OTYsIm5iZiI6MTU2OTY2MDk5Nn0.LjWCcbE8bqFFTbWwNTenZyTnAGk19BaOmGloz6rRURM",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-09-28 16:56:15,743 - logs… - INFO - <Response [200]>
+2019-09-28 16:56:15,810 - logs… - INFO - <Response [200]>
+2019-09-28 16:56:15,879 - logs… - INFO - <Response [200]>
+2019-09-28 16:56:15,930 - logs… - INFO - <Response [200]>
+2019-09-28 16:59:38,410 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 16:59:38,410 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 16:59:38,410 - logs… - INFO - caseList[]
+2019-09-28 17:00:02,166 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 17:00:02,167 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 17:00:02,167 - logs… - INFO - caseList[]
+2019-09-28 17:00:27,995 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-09-28\report.2019-09-28.html
+2019-09-28 17:00:27,995 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-09-28 17:00:27,995 - logs… - INFO - caseList[]

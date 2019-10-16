@@ -1,0 +1,109 @@
+2019-10-08 19:16:01,955 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-08\report.2019-10-08.html
+2019-10-08 19:16:01,955 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-08 19:16:01,956 - logs… - INFO - caseList[]
+2019-10-08 19:16:03,597 - logs… - INFO - <Response [200]>
+2019-10-08 19:16:03,598 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTQ2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3MDYxNjMsIm5iZiI6MTU3MDUzMzM2M30.vMFvDPO-bXUi8iu8spedH0Bg3c1R7G1EG46ERNnSFGk",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-08 19:16:03,724 - logs… - INFO - <Response [200]>
+2019-10-08 19:16:03,725 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTQ3IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3MDYxNjMsIm5iZiI6MTU3MDUzMzM2M30.ILs8oxFf-W5gw2UbR0OtCugBk-mlqpunTmSUatb7kaQ",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-08 19:16:03,890 - logs… - INFO - <Response [200]>
+2019-10-08 19:16:03,944 - logs… - INFO - <Response [200]>
+2019-10-08 19:16:04,017 - logs… - INFO - <Response [200]>
+2019-10-08 19:16:04,069 - logs… - INFO - <Response [200]>
+2019-10-08 19:25:32,555 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-08\report.2019-10-08.html
+2019-10-08 19:25:32,555 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-08 19:25:32,555 - logs… - INFO - caseList[]
+2019-10-08 19:25:33,106 - logs… - INFO - <Response [200]>
+2019-10-08 19:25:33,106 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTUyIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3MDY3MzIsIm5iZiI6MTU3MDUzMzkzMn0.6LDzzZksXhOswKXiPoQjQj5cG2p2CjskcZ8hl1V-7Qg",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-08 19:25:33,248 - logs… - INFO - <Response [200]>
+2019-10-08 19:25:33,248 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTUzIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3MDY3MzIsIm5iZiI6MTU3MDUzMzkzMn0.T_F1ISUqxGe3uihxq4J5ekuRCWaOdHm7eKCMsoyNEvw",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-08 19:25:33,395 - logs… - INFO - <Response [200]>
+2019-10-08 19:25:33,457 - logs… - INFO - <Response [200]>
+2019-10-08 19:25:33,530 - logs… - INFO - <Response [200]>
+2019-10-08 19:25:33,582 - logs… - INFO - <Response [200]>
+2019-10-08 19:25:33,583 - logs… - INFO - *********TEST END*********
+2019-10-08 20:29:48,274 - logs… - INFO - The test report has send to developer by email.
+2019-10-08 20:32:52,182 - logs… - ERROR - (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-10-08 20:38:05,850 - logs… - ERROR - (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-10-08 20:38:17,313 - logs… - ERROR - (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-10-08 20:38:32,712 - logs… - INFO - The test report has send to developer by email.
+2019-10-08 20:40:22,602 - logs… - ERROR - (535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2019-10-08 20:45:48,236 - logs… - ERROR - Connection unexpectedly closed
+2019-10-08 20:48:49,510 - logs… - ERROR - (535, b'Error: authentication failed')
+2019-10-08 20:49:03,728 - logs… - ERROR - (535, b'Error: authentication failed')
+2019-10-08 20:49:21,376 - logs… - ERROR - (535, b'Error: authentication failed')
+2019-10-08 20:49:32,447 - logs… - ERROR - (535, b'Error: authentication failed')
+2019-10-08 20:49:52,231 - logs… - ERROR - (553, b'Mail from must equal authorized user', '1505831195@qq.com')
+2019-10-08 20:50:51,857 - logs… - INFO - The test report has send to developer by email.
+2019-10-08 20:55:54,748 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-08\report.2019-10-08.html
+2019-10-08 20:55:54,748 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-08 20:55:54,748 - logs… - INFO - caseList[]
+2019-10-08 20:55:55,367 - logs… - INFO - <Response [200]>
+2019-10-08 20:55:55,367 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTU4IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3MTIxNTQsIm5iZiI6MTU3MDUzOTM1NH0.Lcjx523QSwiEtWc8f-D3QWnGrHly9esciGAn8-C4Dvg",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-08 20:55:55,524 - logs… - INFO - <Response [200]>
+2019-10-08 20:55:55,525 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTU5IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA3MTIxNTUsIm5iZiI6MTU3MDUzOTM1NX0.1pFt71CFT1xlDdCtrjKxn6xqAuqH4NdjxFj8UPpTsys",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-08 20:55:55,658 - logs… - INFO - <Response [200]>
+2019-10-08 20:55:55,733 - logs… - INFO - <Response [200]>
+2019-10-08 20:55:55,795 - logs… - INFO - <Response [200]>
+2019-10-08 20:55:55,842 - logs… - INFO - <Response [200]>
+2019-10-08 20:55:55,844 - logs… - INFO - *********TEST END*********
+2019-10-08 20:55:56,404 - logs… - INFO - The test report has send to developer by email.

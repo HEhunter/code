@@ -1,0 +1,197 @@
+2019-10-10 16:30:58,265 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-10\report.2019-10-10.html
+2019-10-10 16:30:58,266 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-10 16:30:58,266 - logs… - INFO - caseList[]
+2019-10-10 16:30:59,786 - logs… - INFO - <Response [200]>
+2019-10-10 16:30:59,944 - logs… - INFO - <Response [200]>
+2019-10-10 16:31:00,031 - logs… - INFO - <Response [200]>
+2019-10-10 16:31:00,255 - logs… - INFO - <Response [200]>
+2019-10-10 16:31:00,257 - logs… - INFO - *********TEST END*********
+2019-10-10 16:33:44,627 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-10\report.2019-10-10.html
+2019-10-10 16:33:44,628 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-10 16:33:44,628 - logs… - INFO - caseList[]
+2019-10-10 16:33:45,184 - logs… - INFO - <Response [200]>
+2019-10-10 16:33:45,312 - logs… - INFO - <Response [200]>
+2019-10-10 16:33:45,441 - logs… - INFO - <Response [200]>
+2019-10-10 16:33:45,509 - logs… - INFO - <Response [200]>
+2019-10-10 16:33:45,571 - logs… - INFO - <Response [200]>
+2019-10-10 16:33:45,612 - logs… - INFO - <Response [200]>
+2019-10-10 16:33:45,613 - logs… - INFO - *********TEST END*********
+2019-10-10 16:34:49,605 - logs… - INFO - <Response [200]>
+2019-10-10 16:34:49,606 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTg4IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4NjkyOTIsIm5iZiI6MTU3MDY5NjQ5Mn0.rh2LU3zyl8NtEDhwwPKcEcjm_erBZoWFa2ug5p1q53s",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:34:49,724 - logs… - INFO - <Response [200]>
+2019-10-10 16:34:49,725 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTg5IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4NjkyOTIsIm5iZiI6MTU3MDY5NjQ5Mn0.0V_MwfQtHShwgB65bRijcTWKyCbBdl5LfivcAQL2mwo",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:34:49,853 - logs… - INFO - <Response [200]>
+2019-10-10 16:34:49,907 - logs… - INFO - <Response [200]>
+2019-10-10 16:34:49,959 - logs… - INFO - <Response [200]>
+2019-10-10 16:34:50,007 - logs… - INFO - <Response [200]>
+2019-10-10 16:35:55,808 - logs… - INFO - <Response [200]>
+2019-10-10 16:35:55,809 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTk0IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4NjkzNTgsIm5iZiI6MTU3MDY5NjU1OH0.kz85ped2HrS5zc7wGFaT0UNqGsSSiD4JBdR_b7q1wAg",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:35:55,934 - logs… - INFO - <Response [200]>
+2019-10-10 16:35:55,935 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDIzMTU0IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4NjkzNTgsIm5iZiI6MTU3MDY5NjU1OH0.tJgvn9eYXuWaL6Mmt-W6F33k33Y0CQYoi195c5iGrTo",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:35:56,006 - logs… - INFO - <Response [200]>
+2019-10-10 16:35:56,007 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMTQxMDA5IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoiZnJzLnVzc2NpdHkuY29tIiwiZXhwIjoxNTcwODY5MzU4LCJuYmYiOjE1NzA2OTY1NTh9.kZ2egEJAWZ2rfgxguzukpbh6Fkj-7jziJ999QLVVmug",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:35:56,203 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:02,039 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:02,040 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTk1IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4Njk0MjQsIm5iZiI6MTU3MDY5NjYyNH0.cBKVGIEsSmONOcxnKgRCfK-EsOEZuksjFX6u-B3zXJA",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:37:02,182 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:02,182 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDIzMTU1IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4Njk0MjQsIm5iZiI6MTU3MDY5NjYyNH0.W3zhrO3Y-n9PH1VMK1hnb666HJC1MugyRrYO-5f9tH8",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:37:02,293 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:02,293 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMTQxMDEwIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoiZnJzLnVzc2NpdHkuY29tIiwiZXhwIjoxNTcwODY5NDI0LCJuYmYiOjE1NzA2OTY2MjR9.ZI8gQtRxiwWc7LOlImRVs-d62E4pdDGHlQnxOO2tPJQ",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:37:02,496 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:02,497 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDAxNDA5IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4Njk0MjQsIm5iZiI6MTU3MDY5NjYyNH0.9j2IgVoVbcyloG-6TnxZq40zbuY1nE5MuJNQecDCM4U",
+		"expires_in":172800,
+		"token_type":"bearer"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:37:44,419 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:44,419 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMTk2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4Njk0NjYsIm5iZiI6MTU3MDY5NjY2Nn0.ILvwgh578de1RrUBlovvDYu6NJptW1Bxx_kG62S8Uo8",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:37:44,514 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:44,514 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDIzMTU2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4Njk0NjYsIm5iZiI6MTU3MDY5NjY2Nn0.2S6Sc5t_3Y0wtojygyvm_0bqq29LF8b2Y6IZqS-nnqk",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:37:44,600 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:44,600 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMTQxMDExIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoiZnJzLnVzc2NpdHkuY29tIiwiZXhwIjoxNTcwODY5NDY3LCJuYmYiOjE1NzA2OTY2Njd9.ZcJARWrZXdi9-2Ojwj_7HFfRKW5Pf3tqzZe0V-NMwzU",
+		"expires_in":172800,
+		"token_type":"bearer",
+		"username":"超级管理员"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:37:44,812 - logs… - INFO - <Response [200]>
+2019-10-10 16:37:44,812 - logs… - INFO - 断言失败:实际输出={
+	"code":"0",
+	"data":{
+		"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDAxNDEwIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1NzA4Njk0NjcsIm5iZiI6MTU3MDY5NjY2N30.Pod9BmHshEJOkN8JspAAJfVi0Mb_TwFnW1icnNbhyTQ",
+		"expires_in":172800,
+		"token_type":"bearer"
+	},
+	"msg":"OK",
+	"paramMap":{}
+}expectValue="msg": "OK"
+2019-10-10 16:38:14,745 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-10\report.2019-10-10.html
+2019-10-10 16:38:14,745 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-10 16:38:14,745 - logs… - INFO - caseList[]
+2019-10-10 16:38:15,360 - logs… - INFO - <Response [200]>
+2019-10-10 16:38:15,474 - logs… - INFO - <Response [200]>
+2019-10-10 16:38:15,547 - logs… - INFO - <Response [200]>
+2019-10-10 16:38:15,777 - logs… - INFO - <Response [200]>
+2019-10-10 16:38:15,777 - logs… - INFO - *********TEST END*********
+2019-10-10 16:40:05,680 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-10\report.2019-10-10.html
+2019-10-10 16:40:05,680 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-10 16:40:05,680 - logs… - INFO - caseList[]
+2019-10-10 16:40:05,810 - logs… - INFO - *********TEST END*********
+2019-10-10 16:40:40,232 - logs… - INFO - resultPathD:\hunter_\interfaceTest\result\2019-10-10\report.2019-10-10.html
+2019-10-10 16:40:40,233 - logs… - INFO - caseListFileD:\hunter_\interfaceTest\caselist.txt
+2019-10-10 16:40:40,233 - logs… - INFO - caseList[]
+2019-10-10 16:40:40,982 - logs… - INFO - <Response [200]>
+2019-10-10 16:40:41,167 - logs… - INFO - <Response [200]>
+2019-10-10 16:40:41,286 - logs… - INFO - <Response [200]>
+2019-10-10 16:40:41,538 - logs… - INFO - <Response [200]>
+2019-10-10 16:40:41,543 - logs… - INFO - *********TEST END*********
